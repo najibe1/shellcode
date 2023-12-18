@@ -1,5 +1,5 @@
 ;       Arquitetura E Organização De Computadores S73        ;
-;       Alunos: Gabriel Augusto Daroz e Cristiano Morales    ;
+;       Aluno: Eduardo Najibe
 ;                                                            ;
 ;                                                            ;
 ;                    SOCKETS e Shellcode                     ;
